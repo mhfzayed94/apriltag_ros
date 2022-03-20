@@ -21,10 +21,10 @@
 #   ]
 standalone_tags:
   [
-    {id: 0, size: 1, name: 'AT_0'},
-    {id: 1, size: 1, name: 'AT_1'},
-    {id: 2, size: 1, name: 'AT_2'},
-    {id: 3, size: 1, name: 'AT_3'}
+    {id: 0, size: 1.0},
+    {id: 1, size: 1.0},
+    {id: 2, size: 1.0},
+    {id: 3, size: 1.0}
   ]
 # ## Tag bundle definitions
 # ### Remarks
