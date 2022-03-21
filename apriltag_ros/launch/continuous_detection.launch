@@ -17,6 +17,6 @@
 
     <param name="publish_tag_detections_image" type="bool" value="true" />      <!-- default: false -->
   </node>
-  <!-- Visualizer -->
-    <node name="rviz" pkg="rviz" type="rviz" args="-d $(find apriltag_ros)/config/rviz_config.rviz"/>
+  <!-- Visualizer
+    <node name="rviz" pkg="rviz" type="rviz" args="-d $(find apriltag_ros)/config/rviz_config.rviz"/> -->
 </launch>
